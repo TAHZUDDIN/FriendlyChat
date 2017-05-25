@@ -65,6 +65,10 @@ import com.google.firebase.storage.UploadTask;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
+//https://codelabs.developers.google.com/codelabs/firebase-android/#8
+//https://console.firebase.google.com/project/friendlychat-ab1a1/database/data
+
+
 public class MainActivity extends AppCompatActivity
         implements GoogleApiClient.OnConnectionFailedListener {
 
